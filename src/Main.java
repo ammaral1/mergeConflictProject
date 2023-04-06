@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+
+        Feature2 f2=new Feature2();
+        f2.B="1234";
+
     }
 }
